@@ -8,7 +8,7 @@ class CurrencyConverter(customtkinter.CTk):
     def __init__(self):
         # Set the appearance settings
         customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
-        customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
+        customtkinter.set_default_color_theme("green")  # Themes: "blue" (standard), "green", "dark-blue"
 
         # Set scaling factors
         customtkinter.set_widget_scaling(1.3)
